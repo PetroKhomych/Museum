@@ -49,7 +49,9 @@ button:hover {
     text-align: center;
 }
 @media (max-width: 767px) {
-
+	main {
+		height:2000px;
+	}
 }
 @media (min-width: 768px) and (max-width: 1400px) {
    
